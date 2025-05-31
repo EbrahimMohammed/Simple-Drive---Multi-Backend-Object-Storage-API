@@ -1,4 +1,4 @@
-# **Simple Drive - Multi-Backend Object Storage API**
+# **Multi-Backend Object Storage API**
 
 ---
 
